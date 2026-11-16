@@ -1,0 +1,41 @@
+note untuk disampaikan pada 16 November 2026
+
+Update pengembangan SIPPP tanggal 16 November 2026:
+
+1. Tambah anggota: Pendaftaran anggota secara mandiri bisa dengan upload e-KTP (done)
+2. Tambah anggota: untuk pendaftaran anggota oleh admin, gambar e-KTP bisa scan otomatis, maupun hanya simpan gambar dan input manual
+2. Tambah pengurus: Penetapan pengurus ke dalam format KSB (Ketua, Sekretaris, Bendahara) serta pengurus lainnya berdasarkan SK Pengurus
+4. Tambah Kantor: menambah surat keterangan domisili yang diterbitkan oleh Lembaga setempat yang bisa diunggah.
+4. Fitur Baru Persuratan dan Disposisi: Pencatatan Surat Masuk dan Surat Keluar. 
+Pencatatan surat masuk meliputi Instansi pengirim, no surat, tanggal surat, pokok sampai dengan ringkasan surat. 
+
+Untuk pencatatan surat keluar terbagi menjadi 5 jenis surat:
+- Surat Internal Organisasi (Instruksi, Surat Edaran, Pemberitahuan, dan Kebijakan Internal Pengurus)
+- Surat Eksternal Lembaga/Instansi (Surat resmi ke KPU, Bawaslu, Pemerintah, Lembaga Tinggi, dan Partai politik lain.)
+- Undangan Resmi (Undangan Musyawarah, rapat pleno, muktamar, workshop, dan agenda resmi)
+- Surat Tugas dan Mandat (Penugasan saksi pemilu, delegasi resmi, narasumber, dan tim khusus partai.)
+- Surat keterangan & rekomendasi (surat rekomendasi kader, keterangan aktif kepengurusan, dan dukungan partai).
+
+Diberitahukan untuk admin provinsi sebagai admin pengguna SIPPP untuk memanfaatkan / trial fitur yang disampaikan di atas. Jika ada kendala bisa disampaikan pada grup ini ataupun kontak admin.
+
+masukan buat mediawave.
+1. untuk pengurus wilayah yang berasal dari wilayah lain. Contoh diangkat pengurus Bangka Belitung
+meskipun KTA diterbitkan oleh Kepulauan riau
+2. mastiin: Minimal populasi 1.000 adalah per Kab/kota yang bisa didistribusikan ke mana aja, bisa ada kecamatan yang gemuk atau sedikit. Bukan 1 provinsi minimal 1000.
+3. generate kartu anggota ada tulisan yang blur, pada kata Kartu Tanda Anggota
+4. mastiin: untuk cek ktp sebelum validasi baiknya tampilkan dengan data anggota baru disamping bisa bisa cek tanggal lahir dan alamat secara manual? biar ngga cuma liat KTP nay
+5. mastiin: bisakah menolak jika foto ktp, foto profil tidak sesuai?
+6. Error 404 pada pratinjau berkas surat resmi (PDF)
+7. pencarian kab/kota dpw yang memperoleh surat bisa dipermudah dengan search bar
+8. ada 8 Salinan surat yang sama pada Surat Masuk. saat login sebagai admin provinsi
+
+masukan dari NTT
+Pengalamannya, misalkan kami di NTT, daerah kepulauan. Koordinasi hanya bisa via WA. Tiba-tiba di Pulau Sabu Raijua, jauh dari Ibukota Provinsi, didatangi Petugas Verifikasi dari KPUD. Setelah diverifikasi, ada beberapa data anggota yg double dg partai lain. Jika tidak segera dilengkapi/diinput yg baru, bisa gugur. Biasanya petugas KPUD juga cukup kooperatif, meminta kita segera input data anggota sbg pengganti, dilengkapi KTA. Ini butuh waktu secepatnya.
+Bagaimana jadinya jika setelah input, kita masih menunggu Verifikasi dari DPP. Sementara di DPP pun tidak hanya mengurus 1  2 orang...
+
+Apalagi jika kejadian seperti ini terjadi di beberapa kabupaten di kepulauan. 
+
+Ini hanya masukan...
+
+cek later:
+untuk validasi & membuka data sensitive tidak perlu input password lagi tapi hanya muncul alert dan tiap membuka akan tercatat di log, admin yang memiliki hak akses untuk membuka data sensitif saja yang bisa
